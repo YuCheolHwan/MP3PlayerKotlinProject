@@ -10,7 +10,7 @@ Creating a music player program using Kotlin and SQLite.
 | Language | Kotlin 213-1.7.0 |
 | Editor | Android Studio 11.0.15 |
 | DBMS | SQLite 2.0 |
-| Github | https://github.com/ces0028/MusicPlayerProgram-Kotlin-Project |
+| Github | (https://github.com/YuCheolHwan/MP3PlayerKotlinProject.git) |
 
 ## Periods of Development
 2023-04-15(Sun) ~ 2023-04-16(Sun)
