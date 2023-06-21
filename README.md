@@ -13,7 +13,7 @@ Creating a music player program using Kotlin and SQLite.
 | Github | (https://github.com/YuCheolHwan/MP3PlayerKotlinProject.git) |
 
 ## Periods of Development
-2023-04-15(Sun) ~ 2023-04-16(Sun)
+2023-04-15(Sat) ~ 2023-04-16(Sun)
 
 ## Run Application
 https://user-images.githubusercontent.com/126849378/232426718-2d96060b-07d2-4629-85a9-85604819e3a1.mp4
